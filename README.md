@@ -11364,8 +11364,9 @@ end)
 OrionLib:Init()
 
 OrionLib:MakeNotification({
-    Name = "ricardo curupira",
+    Name = "ricardo hub ",
     Content = "Loading Config Complete!!",
     Image = "rbxassetid://115716440383340",
     Time = 5
 })
+https://www.youtube.com/@RICARDOkzmnkk1
